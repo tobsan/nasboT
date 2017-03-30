@@ -1,0 +1,11 @@
+TODO:
+    * HIGH:     Parse configuration, XML or what?
+    * HIGH:     gen_server and OTP style code (server, logging, supervision)
+    * MEDIUM:   Extend nasbot_utils
+    * MEDIUM:   Compile plugin modules.
+    * HIGH:     Make sure plugin path is loaded to the system on boot
+    * LOW:      Write cool plugins
+    * HIGH:     Write code for the internal state
+        - Anyone should be able to query the state.
+        - Only the bot core should be able to modify the state.
+    * MEDIUM:   Support for multiple networks.
